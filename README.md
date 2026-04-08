@@ -24,5 +24,5 @@ Celem było zbudowanie działającego środowiska domenowego wraz z automatyczny
 
 Projekt zawiera zrzuty ekranu jako dowód na działanie wdrożonych funkcji.
 
-##Autor
+## Autor
 Łukasz Adamski
