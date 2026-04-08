@@ -20,7 +20,7 @@ Celem było zbudowanie działającego środowiska domenowego wraz z automatyczny
 
 ## Architektura
 - Windows Server 2022
-- Ubuntu
+- Ubuntu 24.04
 
 Projekt zawiera zrzuty ekranu jako dowód na działanie wdrożonych funkcji.
 
