@@ -8,7 +8,7 @@ Celem było zbudowanie działającego środowiska domenowego wraz z automatyczny
 
 ## Zastosowane technologie
 - Windows Server 2022
-- Active Direcotry Domain Services
+- Active Directory Domain Services
 - DNS
 - DHCP
 - Ubuntu (klient)
