@@ -1,6 +1,6 @@
 # Windows-Server
 
-# Prosta infrastruktura sieciowa oparta o Windows Server 2022
+# Konfiguracja środowiska Windows Server 2022
 
 ## Opis projektu
 Projekt przedstawia konfigurację podstawowej infrastruktury sieciowej w środowisku wirtualnym, zbliżonej do małej firmy.
